@@ -18,7 +18,7 @@ Branches: When you want to separates different environments in your local git
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    The benefit of having a copy of the last known state of the remote stored locally is because I can identify the difference between my last change and my last known state.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
