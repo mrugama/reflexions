@@ -23,7 +23,7 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    I can't imagine working without git or GitHub. The easy part is I am able to go back in my previous commits and can create different branches.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
