@@ -28,4 +28,4 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    We want to make different branches when we are working in a test environment or creating a new feature in our app and we are pretty sure the changes are what we want to we merge into our master branch.
